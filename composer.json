@@ -1,0 +1,19 @@
+{
+    "name": "sahil/card-test",
+    "description": "Test Assigenment program",
+    "autoload": {
+        "psr-4": {
+            "Sahil\\CardTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mudassar Ali",
+            "email": "sahil_bwp@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
